@@ -1,5 +1,6 @@
 ##关于图片加载
  - imagecache.jar
+
 >详细的使用方法可见[CommonAdapter](https://github.com/183619962/CommonAdapter)中有使用。
 单纯使用，将根目录下的 imagecache.jar 导入到个人项目，按如下方法使用即可，2句话即可完成图片加载及缓存。
 
